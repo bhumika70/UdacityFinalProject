@@ -1,0 +1,9 @@
+{
+	"name": "adf-udacity-project4",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e25d58a5-6287-4e34-9c58-1614f83d16de",
+		"tenantId": "7f7fd7bc-1ac8-43ae-8902-b1321adcb8c8"
+	}
+}
